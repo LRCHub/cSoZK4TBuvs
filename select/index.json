@@ -1,0 +1,96 @@
+{
+  "version": 1,
+  "base_track": "いつもこの場所で syphonic ver.",
+  "base_artist": "彩音",
+  "createdAt": "2026-02-27T06:01:42.215754Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "いつもこの場所で (symphonic ver.)",
+      "artist": "彩音",
+      "has_synced": true,
+      "path": "select/01_いつもこの場所で_(symphonic_ver.)_彩音.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "いつもこの場所で",
+      "artist": "彩音",
+      "has_synced": true,
+      "path": "select/02_いつもこの場所で_彩音.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "いつもこの場所で syphonic ver.",
+      "artist": "Ayane",
+      "has_synced": true,
+      "path": "select/03_いつもこの場所で_syphonic_ver._Ayane.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "いつもこの場所で syphonic ver. - Itsumo kono bashode",
+      "artist": "Ayane",
+      "has_synced": true,
+      "path": "select/04_いつもこの場所で_syphonic_ver._-_Itsumo_kono_bashode_Ayane.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "いつもこの場所で  symphonic ver．",
+      "artist": "彩音",
+      "has_synced": false,
+      "path": "select/05_いつもこの場所で_symphonic_ver._彩音.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "いつもこの場所で  symphonic ver．",
+      "artist": "V．A．",
+      "has_synced": false,
+      "path": "select/06_いつもこの場所で_symphonic_ver._V.A..txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "いつもこの場所で",
+      "artist": "彩音",
+      "has_synced": true,
+      "path": "select/07_いつもこの場所で_彩音.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "いつもこの場所で",
+      "artist": "Ayane",
+      "has_synced": true,
+      "path": "select/08_いつもこの場所で_Ayane.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "いつもこの場所で (off Vocal)",
+      "artist": "彩音",
+      "has_synced": true,
+      "path": "select/09_いつもこの場所で_(off_Vocal)_彩音.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "いつもこの場所で (off Vocal)",
+      "artist": "彩音",
+      "has_synced": true,
+      "path": "select/10_いつもこの場所で_(off_Vocal)_彩音.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "いつもこの場所で",
+      "artist": "彩音",
+      "has_synced": false,
+      "path": "select/pl_01_いつもこの場所で_彩音.txt"
+    }
+  ]
+}
